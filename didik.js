@@ -1,1 +1,0 @@
-console.log("M. Didik Cahya Indirman");
