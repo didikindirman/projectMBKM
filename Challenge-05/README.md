@@ -3,6 +3,10 @@ d# Challenge 5 FSW-11 M. Didik Cahya Indirman
 
 <div style="text-align:center">
 
+<h2> ERD </h2>
+
+<img src="./public/images/erd.png" /></div>
+
 <h2> ENDPOINT </h2>
 
 <ul>
@@ -12,4 +16,4 @@ d# Challenge 5 FSW-11 M. Didik Cahya Indirman
 <li> http://localhost:7000/delete-car/:id <li>
 </ul>
 
-<img src="./public/images/erd.png" /></div>
+
