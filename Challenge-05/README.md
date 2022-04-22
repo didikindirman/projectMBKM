@@ -13,8 +13,3 @@ d# Challenge 5 FSW-11 M. Didik Cahya Indirman
 </ul>
 
 <img src="./public/images/erd.png" /></div>
-
-=======
-# Challenge 5 Didik
-![image](https://dbdiagram.io/d/62598ed82514c979033a156c)
->>>>>>> 30273ef35901dbc585cf1f0dfba3aabcfdf885c6
