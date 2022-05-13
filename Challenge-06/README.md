@@ -1,6 +1,7 @@
 <!-- Challenge 6 -->
 <!-- Super Admin -->
 
+name : didikindirman
 email: didikindirman@gmail.com,
 password: didik123
 
